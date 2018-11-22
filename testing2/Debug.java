@@ -5,13 +5,9 @@ import java.util.*;
 
 public class Debug
 {
-    //This is a comment
-    //This is a comment
-    //This is a comment
-    //This is a comment
-    //This is a comment
-    //This is a comment
-    //This is a comment
+    //This is a better comment
+    //This is a better comment
+    //This is a better comment
     public static void main(String[] args)
     {
         Scanner in = new Scanner(System.in);
@@ -26,15 +22,6 @@ public class Debug
 
     static long[] cache;
 
-    //This is a big comment
-    //This is a big comment
-    //This is a big comment
-    //This is a big comment
-    //This is a big comment
-    //This is a big comment
-    //This is a big comment
-    //This is a big comment
-    //This is a big comment
     static long solve(long n, long r, long p)
     {
         if (n == 1)
